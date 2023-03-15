@@ -1,0 +1,12 @@
+body {
+    background-color: aliceblue;
+}
+
+h1 {
+    color: indigo;
+}
+
+.container {
+    background-color: aliceblue;
+    display: flex;
+}
